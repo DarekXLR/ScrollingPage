@@ -12,8 +12,8 @@
 }
 
 .scroller__navigation ul li {
-    width: 20px;
-    height: 20px;
+    width: 10px;
+    height: 10px;
     border-radius: 50%;
     background-color: rgba(16, 16, 141, 0.6);
     cursor: pointer;
